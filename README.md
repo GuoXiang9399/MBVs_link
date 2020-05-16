@@ -1,5 +1,5 @@
 # MBVs_link
-Database, BBS, Software, Journal, Webtool for Mosquito-borne virus(MBVs) Research
+Articles Collection, Database, BBS, Software, Journal, Webtool for Mosquito-borne virus(MBVs) Research
 
 # Articles Collection
 | Web                                                                     | Website                                                  |
